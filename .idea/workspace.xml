@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aff40b64-22f0-480b-88b9-91478f06c913" name="Changes" comment="Solution Day02" />
+    <list default="true" id="aff40b64-22f0-480b-88b9-91478f06c913" name="Changes" comment="Solution Day03">
+      <change afterPath="$PROJECT_DIR$/src/days/Day4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/files/input4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +38,12 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -47,6 +57,8 @@
       <workItem from="1669880360758" duration="3576000" />
       <workItem from="1669894358666" duration="688000" />
       <workItem from="1669969231289" duration="9720000" />
+      <workItem from="1670072644388" duration="3804000" />
+      <workItem from="1670158710714" duration="1697000" />
     </task>
     <task id="LOCAL-00001" summary="Solution Day01">
       <created>1669884013492</created>
@@ -62,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669979346003</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Solution Day03">
+      <created>1670072844560</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670072844560</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +101,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Solution Day01" />
     <MESSAGE value="Solution Day02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solution Day02" />
+    <MESSAGE value="Solution Day03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solution Day03" />
   </component>
 </project>
