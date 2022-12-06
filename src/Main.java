@@ -14,9 +14,12 @@ public class Main {
 //        Day4 run4 = new Day4();
 //        run4.one();
 //        run4.two();t
-        Day5 run5 = new Day5();
-        run5.one();
-        run5.two();
+//        Day5 run5 = new Day5();
+//        run5.one();
+//        run5.two();
+        Day6 run6 = new Day6();
+        run6.one();
+        run6.two();
     }
 
 
